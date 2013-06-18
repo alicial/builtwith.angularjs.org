@@ -2,6 +2,25 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "Lift",
+      "thumb": "lift/thumb.png",
+      "desc": "Lift is a motivational tool that supports any goal, including diet, fitness, happiness, relationships, career, hobbies. We boost success through social support and informational insights.",
+      "url": "http://lift.do",
+      "info": "http://blog.lift.do/post/53243414916/lift-for-everyone",
+      "submitter": "alicial",
+      "submissionDate": "2013-06-18",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Local Storage",
+        "AngularUI",
+        "D3js",
+        "Bootstrap",
+        "CSS3",
+        "jQuery"
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
